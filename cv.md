@@ -24,7 +24,9 @@ Willing to develop my skills with **RSSchool**
         }  
 
 ## **Experience** ##  
-
+  
+Experience, Bro!  
+  
 ## **Education** ##  
 
 Brest State Technical University, Information Technology Engineer  
@@ -32,4 +34,3 @@ Brest State Technical University, Information Technology Engineer
 ## **English** ##  
 
 **B1**  
-                       
