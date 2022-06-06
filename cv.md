@@ -1,5 +1,3 @@
-## **rsschool-cv** ##  
-  
 # **Nikita Yakubchik** #
 
 ## **Contacts** ##
