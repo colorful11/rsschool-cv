@@ -11,7 +11,7 @@
   
 ## **About Me** ##  
 
-I want to learn Front-End Development in **RSSchool** 
+I want to learn Front-End Development with **RSSchool** 
   
 ##  **Skills** ##  
   
