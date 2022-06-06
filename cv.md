@@ -23,7 +23,7 @@ Willing to develop my skills with **RSSchool**
 
 ## **Experience** ##  
   
-Experience, Bro!  
+>Experience, Bro!  
   
 ## **Education** ##  
 
