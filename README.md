@@ -1,1 +1,1 @@
-# rsschool-cv
+https://acielle.github.io/rsschool-cv/cv
