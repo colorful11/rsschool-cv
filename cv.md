@@ -5,7 +5,7 @@
 * **Location:** Minsk, Belarus  
 * **Phone:** + 375 29 737-71-96  
 * **Email:** sg23mj@gmail.com  
-* **GitHub:** [acielle][l1][l1]: https://github.com/acielle/  
+* **GitHub:** [acielle] [l1] [l1]: https://github.com/acielle/  
   
 ## **About Me** ##  
 
