@@ -1,1 +1,1 @@
-https://acielle.github.io/rsschool-cv/
+https://dontstarve69.github.io/rsschool-cv/cv/

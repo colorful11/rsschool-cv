@@ -5,7 +5,7 @@
 * **Location:** Minsk, Belarus  
 * **Phone:** + 375 29 737-71-96  
 * **Email:** sg23mj@gmail.com  
-* **GitHub:** [acielle](https://github.com/acielle/)  
+* **GitHub:** [dontstarve69](https://github.com/dontstarve69/)  
   
 ## **About Me** ##  
 
@@ -17,13 +17,20 @@ Willing to develop my skills with **RSSchool**
 
 ## **Code Example** ##  
 
-    function multiply(a, b){
-        return  a * b
-        }  
+    function bingo(ticket, win) s{
+        let count = 0;
+        ticket.forEach((item) => {
+            if (item[0].indexOf(String.fromCharCode(item[1])) != -1) {
+                count++;
+            }  
+        })
+        if (count >= win) return 'Winner!';
+        else return 'Loser!'; 
+    }
 
 ## **Experience** ##  
   
->Experience, Bro!  
+Preparatory course «JavaScript/Front-end»
   
 ## **Education** ##  
 
@@ -31,4 +38,4 @@ Brest State Technical University, Information Technology Engineer
 
 ## **English** ##  
 
-**B1**  
+**A2**
