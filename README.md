@@ -1,1 +1,1 @@
-https://dontstarve69.github.io/rsschool-cv/cv/
+https://dontstarve69.github.io/rsschool-cv/cv
