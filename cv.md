@@ -5,7 +5,7 @@
 * **Location:** Minsk, Belarus  
 * **Phone:** + 375 29 737-71-96  
 * **Email:** sg23mj@gmail.com  
-* **GitHub:** [dontstarve69](https://github.com/dontstarve69/)  
+* **GitHub:** [colorful11](https://github.com/colorful11/)  
   
 ## **About Me** ##  
 
