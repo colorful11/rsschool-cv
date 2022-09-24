@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <header class="header">
+            <div class="header_container">
+                <div class="pic"></div>
+                <div class="handle">
+                    <h1 class="name">Nikita</h1>
+                    <h1 class="surname">Yakubchik</h1>
+                    <h3 class="spec">Front End Developer</h3>
+                </div>
+                <div class="contacts">
+                        <p class="phone">+37529-737-7196</p>
+                        <p class="mail">sg23mj@gmail.com</p>
+                        <p class="location">Minsk, Belarus</p>
+                </div>
+            </div>
+        </header>
+        <main class="main">
+            <div class="main_container">
+                <div class="personal">
+                    <h2>About Me</h2>
+                    <p class="text">I want to learn Front-End Development with RSSchool</p>
+                </div>
+                <div class="skills">
+                    <h2>Skills</h2>
+                    <p class="text">Willing to develop my skills with RSSchool</p>
+                </div>
+                <div class="experience">
+                    <h2>Experience</h2>
+                    <p class="text">Preparatory course «JavaScript/Front-end»</p>
+                </div>
+                <div class="code">
+                    <h2>Code Example</h2>
+                    <code>
+                        function bingo(ticket, win) s {
+                            let count = 0;
+                            ticket.forEach((item) => {
+                                if (item[0].indexOf(String.fromCharCode(item[1])) != -1) {
+                                    count++;
+                                }  
+                            })
+                            if (count >= win) return 'Winner!';
+                            else return 'Loser!'; 
+                        }
+                    </code>
+                </div>
+                <div class="education">
+                    <h2>Education</h2>
+                    <p class="text">Brest State Technical University, Information Technology Engineer</p>
+                </div>
+                <div class="english">
+                    <h2>English Level</h2>
+                    <p class="text last">A2</p>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+</html>
