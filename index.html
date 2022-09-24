@@ -45,16 +45,7 @@
                 <div class="code">
                     <h2>Code Example</h2>
                     <code>
-                        function bingo(ticket, win) s {
-                            let count = 0;
-                            ticket.forEach((item) => {
-                                if (item[0].indexOf(String.fromCharCode(item[1])) != -1) {
-                                    count++;
-                                }  
-                            })
-                            if (count >= win) return 'Winner!';
-                            else return 'Loser!'; 
-                        }
+                        function updateLight(current) return current === 'green' ? 'yellow' : current === 'yellow' ? 'red' : 'green';
                     </code>
                 </div>
                 <div class="education">
