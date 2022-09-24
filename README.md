@@ -1,1 +1,2 @@
-https://colorful11.github.io/rsschool-cv/cv
+https://colorful11.github.io/rsschool-cv/
+
