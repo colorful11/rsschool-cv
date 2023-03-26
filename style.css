@@ -1,0 +1,90 @@
+.wrapper {
+    max-width: 860px;
+    min-height: 100%;
+    margin: auto;
+    overflow: hidden;
+    padding: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+    background-color: #282522;
+    color: white;
+    min-height: 200px;
+}
+
+.pic {
+    width: 150px;
+    height: 150px;
+    background-image: url('img/2VyrBJ3cmsE.jpg');
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.name {
+    margin-bottom: 0;
+    font-size: 31px;
+    font-weight: 500;
+}
+
+.surname  {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.spec {
+    margin-top: 0;
+    font-weight: 300;
+}
+
+.contacts {
+    font-size: 9px;
+    font-weight: 300;
+    display: flex;
+    flex-direction: column;
+}
+
+.phone {
+    margin-bottom: 0;
+}
+
+.mail {
+    margin: 10px 0;
+}
+
+.location {
+    margin-top: 0;
+    align-self: left;
+}
+
+.main_container {
+    padding: 0 50px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid lightslategray;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.text {
+    font-size: 12px;
+    font-weight: 300;
+}
+
+code {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.last {
+    margin-bottom: 20px;
+}
