@@ -20,9 +20,10 @@
 .pic {
     width: 150px;
     height: 150px;
-    background-image: url('img/2VyrBJ3cmsE.jpg');
+    background-image: url('img/IMG_20170101_000003_512.png');
     background-size: cover;
     border-radius: 50%;
+    background-position: right 10% top 0;
 }
 
 .name {
@@ -87,4 +88,9 @@ code {
 
 .last {
     margin-bottom: 20px;
+}
+
+pre {
+  margin: 0;
+  font-size: 14px;
 }
