@@ -5,7 +5,7 @@
 * **Location:** Minsk, Belarus  
 * **Phone:** + 375 29 737-71-96  
 * **Email:** sg23mj@gmail.com  
-* **GitHub:** [colorful11](https://github.com/colorful11/)  
+* **GitHub:** [iamnkt](https://github.com/iamnkt/)  
   
 ## **About Me** ##  
 
@@ -17,15 +17,11 @@ Willing to develop my skills with **RSSchool**
 
 ## **Code Example** ##  
 
-    function bingo(ticket, win) s{
-        let count = 0;
-        ticket.forEach((item) => {
-            if (item[0].indexOf(String.fromCharCode(item[1])) != -1) {
-                count++;
-            }  
-        })
-        if (count >= win) return 'Winner!';
-        else return 'Loser!'; 
+    function getRectangleString(width, height) {
+        const ur = `┌${'─'.repeat(width - 2)}┐\n`;
+        const mr = `│${' '.repeat(width - 2)}│\n`;
+        const dr = `└${'─'.repeat(width - 2)}┘\n`;
+        return ur + mr.repeat(height - 2) + dr;
     }
 
 ## **Experience** ##  
